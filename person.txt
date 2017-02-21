@@ -1,0 +1,6 @@
+Person:
+-name:String
+-age:int
++getName():String
++getAge():int
++setName(String name):void

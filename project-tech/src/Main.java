@@ -7,6 +7,9 @@ public class Main {
 
         Person p = new Person("Bob",20);
         System.out.println(p);
+	
+	p.setName("Bogdanel");
+	System.out.println(p);
 
     }
 }

@@ -11,5 +11,9 @@ public class Main {
 	p.setName("Bogdanel");
 	System.out.println(p);
 
+	Person p2 = new Person("Bogdanush", 2);
+	p.setName("Bogulet");
+	System.out.println(p);
+
     }
 }

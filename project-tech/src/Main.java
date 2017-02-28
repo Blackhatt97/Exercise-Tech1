@@ -9,6 +9,8 @@ public class Main {
         System.out.println(p);
 	Person v = new Person("Raz", 18);
 	
+	Person y = new Person("Milan",20);
+	System.out.println(y);
 	p.setName("Bogdanel");
 	System.out.println(p);
 	v.setName("Myez");
